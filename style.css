@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.container-bg {
+    background-color: #a0c7d9;
+}
